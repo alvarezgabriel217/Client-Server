@@ -1,0 +1,17 @@
+Socket Created
+Broadcast Socket Created
+Binding Successful
+Binding Successful
+Waiting for connection...
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+New Client Connected
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337
+IP: 127.0.0.55 and Port: 31337

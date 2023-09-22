@@ -1,0 +1,16 @@
+﻿  Project_2.cpp
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Server.h(136,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Server.h(174,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Server.h(199,1): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Server.h(219,1): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Server.h(246,1): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Server.h(284,1): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Server.h(292,1): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Client.h(138,1): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Client.h(168,1): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\Project_2\Project_2.cpp(23,7): warning C4101: 'address': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 302 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project_2.vcxproj -> C:\Users\alvar\Desktop\Full Sail\CNE\Project_2\x64\Release\Project_2.exe
